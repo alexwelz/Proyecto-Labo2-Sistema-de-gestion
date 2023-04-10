@@ -1,0 +1,45 @@
+﻿  Domicilio.cpp
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\rlutil.h(577,32): warning C4267: 'inicializando': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+  Empleado.cpp
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\rlutil.h(577,32): warning C4267: 'inicializando': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\Empleado.cpp(36,6): warning C4101: 'opcion': variable local sin referencia
+  EmpleadosArchivo.cpp
+  Fecha.cpp
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\rlutil.h(577,32): warning C4267: 'inicializando': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+  Funciones.cpp
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\rlutil.h(577,32): warning C4267: 'inicializando': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\Funciones.cpp(275,32): warning C4101: 'pedArc': variable local sin referencia
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\Funciones.cpp(297,25): warning C4101: 'opcion': variable local sin referencia
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\Funciones.cpp(510,21): warning C4101: 'opcion1': variable local sin referencia
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\Funciones.cpp(698,9): warning C4101: 'opcion': variable local sin referencia
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\Funciones.cpp(742,32): warning C4101: 'pedArc': variable local sin referencia
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\Funciones.cpp(762,25): warning C4101: 'opcion': variable local sin referencia
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\Funciones.cpp(1399,21): warning C4101: 'opcion': variable local sin referencia
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\Funciones.cpp(1322,25): warning C4101: 'opcion': variable local sin referencia
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\Funciones.cpp(1325,25): warning C4101: 'reg': variable local sin referencia
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\Funciones.cpp(1323,25): warning C4101: 'password': variable local sin referencia
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\Funciones.cpp(1464,52): warning C4101: 'pedArc1': variable local sin referencia
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\Funciones.cpp(1466,45): warning C4101: 'infArc': variable local sin referencia
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\Funciones.cpp(1465,37): warning C4101: 'inf': variable local sin referencia
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\Funciones.cpp(1564,45): warning C4101: 'prod1': variable local sin referencia
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\Funciones.cpp(1568,35): warning C4101: 'b': variable local sin referencia
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\Funciones.cpp(1632,45): warning C4101: 'prod1': variable local sin referencia
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\Funciones.cpp(1636,35): warning C4101: 'b': variable local sin referencia
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\Funciones.cpp(2085,9): warning C4101: 'opcion': variable local sin referencia
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\Funciones.cpp(2580,13): warning C4101: 'opcion': variable local sin referencia
+  Informe.cpp
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\rlutil.h(577,32): warning C4267: 'inicializando': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+  InformesArchivo.cpp
+  Pedido.cpp
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\rlutil.h(577,32): warning C4267: 'inicializando': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\Pedido.cpp(35,7): warning C4101: 'vCantProd': variable local sin referencia
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\Pedido.cpp(78,20): warning C4101: 'prodAux': variable local sin referencia
+  PedidosArchivo.cpp
+  Producto.cpp
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\rlutil.h(577,32): warning C4267: 'inicializando': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\Producto.cpp(34,6): warning C4101: 'opcion': variable local sin referencia
+  ProductosArchivo.cpp
+  Source.cpp
+E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\Proyecto final - Ratas de laboratorio\rlutil.h(577,32): warning C4267: 'inicializando': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  Proyecto final - Ratas de laboratorio.vcxproj -> E:\GitHub - Repositorios\Proyecto-Final-Labo2-Sistema-de-gestion\x64\Debug\Proyecto final - Ratas de laboratorio.exe
